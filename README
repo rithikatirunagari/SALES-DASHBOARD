@@ -1,0 +1,27 @@
+# 📊 Power BI Sales Dashboard
+
+This repository contains a Power BI project that visualizes sample sales data using interactive charts, slicers, and KPIs.
+
+## 🔧 Tools Used
+- Microsoft Power BI Desktop
+- Excel (as sample data source)
+
+## 📁 Project Files
+- `SalesDashboard.pbix` – Main Power BI report file
+- `sales_data.xlsx` – Sample data used for the dashboard
+
+## 📸 Dashboard Highlights
+- Total Sales & Units KPIs
+- Sales by Region (Bar Chart)
+- Sales by Sales Rep (Column Chart)
+- Product Sales Distribution (Pie Chart)
+- Time-based Sales Trend (Line Chart)
+- Interactive Slicers (Region, Date)
+
+## 📥 How to Use
+1. Download the `.pbix` file
+2. Open it in Power BI Desktop
+3. Explore the dashboard and interact with filters
+
+## 🧑‍💻 Author
+- [T. Rithika](https://github.com/rithikatirunagari)
